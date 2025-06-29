@@ -1,1 +1,17 @@
 # AI-CHATBOT-INTEGRATION
+
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: SHWETA CHAUDHARI
+
+*INTERN ID*: CT08DL711
+
+*DOMAIN*: .NET WEB DEVELOPMENT
+
+*DURATION*: 8 WEEKS
+
+*MENTOR*: NEELA SANTOSH
+
+# Description:
+Here, for chatting with ai, I have used https://huggingface.co/. 
+
